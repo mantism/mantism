@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Welcome to my github profile! 🧑🏽‍🦱👨🏽‍💻🤸🏽‍♂️☕️
+
+Some projects I'm actively working on:
+- [Vertigo Tricking](vertigotricking.com) (private repo 😬)
+- [US Tricking](https://github.com/USTricking/USTricking.com)
+- 😃 [my own website](mikaelmantis.com)
+- maybe others soon... 😅
+
+Please enjoy one of my favorite quotes ever, from my favorite animated dog:
+![jake the dog quote](https://i.kym-cdn.com/photos/images/newsfeed/001/141/641/6dc.gif)
 <!--
 **mantism/mantism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
