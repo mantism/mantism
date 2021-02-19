@@ -3,9 +3,9 @@
 Welcome to my github profile! 🧑🏽‍🦱👨🏽‍💻🤸🏽‍♂️☕️
 
 Some projects I'm actively working on:
-- [Vertigo Tricking](vertigotricking.com) (private repo 😬)
+- [Vertigo Tricking](https://vertigotricking.com) (private repo 😬)
 - [US Tricking](https://github.com/USTricking/USTricking.com)
-- 😃 [my own website](mikaelmantis.com)
+- 😃 [my own website](https://mikaelmantis.com)
 - maybe others soon... 😅
 
 Please enjoy one of my favorite quotes ever, from my favorite animated dog:
