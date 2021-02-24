@@ -1,12 +1,14 @@
-### Hi there 👋
+# Hi I'm Mikael 👋
 
-Welcome to my github profile! 🧑🏽‍🦱👨🏽‍💻🤸🏽‍♂️☕️
+## 🧑🏽‍🦱👨🏽‍💻🤸🏽‍♂️☕️
+
+### I'm a Software Engineer at [BlackRock](https://www.blackrock.com/aladdin), an active [martial arts tricker](https://www.youtube.com/c/MikaelMantis), and an amateur at-home barista. 
 
 Some projects I'm actively working on:
 - [Vertigo Tricking](https://vertigotricking.com) (private repo 😬)
 - [US Tricking](https://github.com/USTricking/USTricking.com)
 - 😃 [my own website](https://mikaelmantis.com)
-- maybe others soon... 😅
+- maybe others soon... 👀
 
 Please enjoy one of my favorite quotes ever, from my favorite animated dog:
 ![jake the dog quote](https://i.kym-cdn.com/photos/images/newsfeed/001/141/641/6dc.gif)
