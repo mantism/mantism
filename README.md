@@ -1,7 +1,7 @@
 # Hi I'm Mikael 👋
 ## 👨🏽‍💻🤸🏽‍♂️☕️
 ### Welcome to my github! 
-#### I like to consider myself a Software Engineer, [martial arts tricker](https://www.youtube.com/c/MikaelMantis), and an amateur at-home barista. 
+#### I like to consider myself a Software Engineer, a [tricker](https://www.youtube.com/c/MikaelMantis), and an amateur at-home barista. 
 
 Some projects I'm actively working on:
 - [Vertigo Tricking](https://vertigotricking.com) (private repo 😬)
