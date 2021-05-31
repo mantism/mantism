@@ -1,8 +1,7 @@
 # Hi I'm Mikael 👋
-
-## 🧑🏽‍🦱👨🏽‍💻🤸🏽‍♂️☕️
-
-### I'm a Software Engineer at [BlackRock](https://www.blackrock.com/aladdin), an active [martial arts tricker](https://www.youtube.com/c/MikaelMantis), and an amateur at-home barista. 
+## 👨🏽‍💻🤸🏽‍♂️☕️
+### Welcome to my github! 
+#### I like to consider myself a Software Engineer, [martial arts tricker](https://www.youtube.com/c/MikaelMantis), and an amateur at-home barista. 
 
 Some projects I'm actively working on:
 - [Vertigo Tricking](https://vertigotricking.com) (private repo 😬)
@@ -10,7 +9,7 @@ Some projects I'm actively working on:
 - 😃 [my own website](https://mikaelmantis.com)
 - maybe others soon... 👀
 
-Please enjoy one of my favorite quotes ever, from my favorite animated dog:
+###### Please enjoy one of my favorite quotes ever, from my favorite animated dog:
 ![jake the dog quote](https://i.kym-cdn.com/photos/images/newsfeed/001/141/641/6dc.gif)
 <!--
 **mantism/mantism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
