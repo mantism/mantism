@@ -1,13 +1,15 @@
 # Hi I'm Mikael 👋
 ## 👨🏽‍💻🤸🏽‍♂️☕️
 ### Welcome to my github! 
-#### I like to consider myself a Software Engineer, a [tricker](https://www.youtube.com/c/MikaelMantis), and an amateur at-home barista. 
+#### I'm a Software Engineer, a [tricker](https://www.youtube.com/c/MikaelMantis), an amateur at-home barista, and a proud aussie dog dad 😄. 
 
 Some projects I'm actively working on:
 - [Vertigo Tricking](https://vertigotricking.com) (private repo 😬)
-- [US Tricking](https://github.com/USTricking/USTricking.com)
 - 😃 [my own website](https://mikaelmantis.com)
 - maybe others soon... 👀
+
+📫 How to reach me: email is best => mikael.mantis7@gmail.com
+
 
 ###### Please enjoy one of my favorite quotes ever, from my favorite animated dog:
 ![jake the dog quote](https://i.kym-cdn.com/photos/images/newsfeed/001/141/641/6dc.gif)
