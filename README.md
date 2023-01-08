@@ -6,6 +6,7 @@
 Some projects I'm actively working on:
 - [Vertigo Tricking](https://vertigotricking.com) (private repo 😬)
 - 😃 [my own website](https://mikaelmantis.com)
+- [TrickingAPI](https://trickingapi.dev)
 - maybe others soon... 👀
 
 📫 How to reach me: email is best => mikael.mantis7@gmail.com
