@@ -1,7 +1,10 @@
 # Hi I'm Mikael 👋
 ## 👨🏽‍💻🤸🏽‍♂️☕️
 ### Welcome to my github! 
-#### I'm a Software Engineer, a [tricker](https://www.youtube.com/c/MikaelMantis), an amateur at-home barista, and a proud aussie dog dad 😄. 
+#### I'm a Software Engineer, a [tricker](https://www.youtube.com/c/MikaelMantis), and a proud Aussie dog dad 😄. 
+Most projects you'll find here are tricking related... 
+#### but what is tricking?
+Tricking, is most easily described as a movement sport/art that combines elements from martial arts, gymnastics, and dancing into performative strings of acrobatics. 
 
 Some projects I'm actively working on:
 - [Vertigo Tricking](https://vertigotricking.com) (private repo 😬)
@@ -10,7 +13,7 @@ Some projects I'm actively working on:
 - [USTricking](https://github.com/ustricking)
 - maybe others soon... 👀
 
-📫 How to reach me: email is best => mikael.mantis7@gmail.com
+📫 Want to reach me? Email is best => mikael.mantis7@gmail.com
 
 
 ###### Please enjoy one of my favorite quotes ever, from my favorite animated dog:
