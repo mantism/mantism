@@ -7,11 +7,13 @@ Most projects you'll find here are tricking related...
 Tricking, is most easily described as a movement sport/art that combines elements from martial arts, gymnastics, and dancing into performative strings of acrobatics. 
 
 Some projects I'm actively working on:
-- [Vertigo Tricking](https://vertigotricking.com) (private repo 😬)
 - 😃 [my own website](https://mikaelmantis.com)
 - [TrickingAPI](https://trickingapi.dev)
 - [USTricking](https://github.com/ustricking)
-- maybe others soon... 👀
+- Some others not ready to be made public... 👀
+
+Past Projects:
+- [Vertigo Tricking](https://vertigotricking.com) (private repo for now 😬)
 
 📫 Want to reach me? Email is best => mikael.mantis7@gmail.com
 
