@@ -1,19 +1,18 @@
-# Hi I'm Mikael 👋
+# Hi, I'm Mikael 👋
 ## 👨🏽‍💻🤸🏽‍♂️☕️
-### Welcome to my github! 
+### Welcome to my GitHub! 
 #### I'm a Software Engineer, a [tricker](https://www.youtube.com/c/MikaelMantis), and a proud Aussie dog dad 😄. 
 Most projects you'll find here are tricking related... 
 #### but what is tricking?
 Tricking, is most easily described as a movement sport/art that combines elements from martial arts, gymnastics, and dancing into performative strings of acrobatics. 
 
-Some projects I'm actively working on:
-- 😃 [my own website](https://mikaelmantis.com)
-- [TrickingAPI](https://trickingapi.dev)
-- [USTricking](https://github.com/ustricking)
-- Some others not ready to be made public... 👀
+🔭 I’m currently building some nifty UI for the next generation of networking at [Aalyria](https://aalyria.com)
 
-Past Projects:
-- [Vertigo Tricking](https://vertigotricking.com) (private repo for now 😬)
+Some side projects I'm also working on/maintaining:
+- [The TrickingAPI](https://trickingapi.dev)
+- [USTricking](https://github.com/ustricking)
+- [BattleGavel](https://battle-gavel.vercel.app)
+- [My personal website](https://mikaelmantis.com)
 
 📫 Want to reach me? Email is best => mikael.mantis7@gmail.com
 
